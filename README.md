@@ -10,6 +10,7 @@
 
 5. The callback is a closure and as we know, closures have access to the containing function’s scope, so the callback function can access the containing    functions’ variables, and even the variables from the global scope.
 
+
 Example:
 ```Javascript
   var friends = ["India", "UK", "USA", "Japan"];
