@@ -1,8 +1,8 @@
-# Javascript
+# Callback Function in Javascript
 
 1. A callback function is a function that is passed to another function as a parameter.
 
-2. The callback function is called (or executed) inside the otherFunction.
+2. The callback function is called (or executed) inside the another function.
 
 3. Pass anonymous function(i.e. callback function) as a parameter to other functions or methods.
 
